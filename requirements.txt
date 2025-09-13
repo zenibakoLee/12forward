@@ -1,5 +1,7 @@
 streamlit
 yfinance
 yahooquery
-matplotlib
 pandas
+matplotlib
+requests
+lxml
